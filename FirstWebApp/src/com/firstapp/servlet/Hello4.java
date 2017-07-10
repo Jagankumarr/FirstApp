@@ -5,7 +5,7 @@ public class Hello4 {
 	public static void main(String[] args) {
 
 		
-		System.out.println("Hello4 example . added more logs. .. new logs.. again added some more logs.");
+		System.out.println("no logs in hello4.java file");
 	}
 
 }
