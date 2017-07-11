@@ -9,7 +9,7 @@ public class TestMain1 {
 
 	public static void main(String[] args) {
 
-	/*	for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 10; i++) {
 			System.out.println("values are " + i);
 			
 		}
@@ -20,9 +20,9 @@ public class TestMain1 {
 		}
 		
 		for (int i = 0; i < 10; i++) {
-			System.out.println("values = " + i);
+			System.out.println("values is " + i);
 			
-		}*/
+		}
 	}
 
 }
