@@ -23,6 +23,9 @@ public class Hello6 {
 	
 	static void crossCheck(){
 		System.out.println("to cross check the method.");
+	}	
+	static void testing(){
+		System.out.println("testing the method here.");
 	}
 
 }
