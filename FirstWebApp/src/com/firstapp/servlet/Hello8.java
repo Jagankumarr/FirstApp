@@ -7,8 +7,8 @@ public class Hello8 {
 		System.out.println("print some messge for the third commit !!!");
 	}
 	
-	public static void main(String[] args) {
-		
+	void checking(){
+		System.out.println("checking the method.");
 	}
 
 }
