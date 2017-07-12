@@ -9,5 +9,9 @@ public class Hello6 {
 	static void display(){
 		System.out.println("display method.");
 	}
+	
+	static void greeting(){
+		System.out.println("this is greeting method.");
+	}
 
 }
