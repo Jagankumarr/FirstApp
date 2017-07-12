@@ -20,5 +20,10 @@ public class Hello6 {
 	static void greeting(){
 		System.out.println("this is greeting method.");
 	}
+	
+	
+	static void testing(){
+		System.out.println("testing the method here.");
+	}
 
 }
