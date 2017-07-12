@@ -20,5 +20,9 @@ public class Hello6 {
 	static void greeting(){
 		System.out.println("this is greeting method.");
 	}
+	
+	static void crossCheck(){
+		System.out.println("to cross check the method.");
+	}
 
 }
