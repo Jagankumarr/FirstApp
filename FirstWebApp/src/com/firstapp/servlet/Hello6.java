@@ -7,5 +7,11 @@ public class Hello6 {
 		System.out.println("hello6 main method starts.");
 
 	}
+	
+	
+	void printMessage(){
+		
+		System.out.println("just printing hello message.");
+	}
 
 }
