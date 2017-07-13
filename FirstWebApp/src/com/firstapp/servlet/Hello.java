@@ -33,12 +33,8 @@ public class Hello {
 		System.out.println("this is m6 method.");
 	}
 	
-	void greeting(){
-		System.out.println("this is greeting method");
-	}
-	
 	void print(){
-		System.out.println("this is print method");
+		System.out.println("this is print message !!!");
 	}
 	
 }
