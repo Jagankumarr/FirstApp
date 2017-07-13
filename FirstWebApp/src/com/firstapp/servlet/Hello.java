@@ -57,5 +57,9 @@ public class Hello {
 		
 	}
 	
+	void m10(){
+		
+	}
+	
 	
 }
