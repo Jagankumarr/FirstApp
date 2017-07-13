@@ -45,4 +45,9 @@ public class Hello {
 		System.out.println("this is m7 method.");
 	}
 	
+	void m9(){
+		
+		System.out.println("this is m9 method.");
+	}
+	
 }
