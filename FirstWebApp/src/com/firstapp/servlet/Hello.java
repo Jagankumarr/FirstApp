@@ -33,4 +33,8 @@ public class Hello {
 		System.out.println("this is m6 method.");
 	}
 	
+	void display(){
+		System.out.println("this is display method.");
+	}
+	
 }
