@@ -38,7 +38,7 @@ public class Hello {
 	}
 	
 	void greeting(){
-		
+		System.out.println("this is locaking method to test");
 	}
 	
 }
