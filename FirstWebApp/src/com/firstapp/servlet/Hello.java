@@ -19,6 +19,12 @@ public class Hello {
 		System.out.println("this is m3 method.");
 	}
 	
+
+	void m5(){
+		System.out.println("this is m5 method");
+	}
+
+	
 	void m4(){
 		System.out.println("this is m4 method");
 	}
@@ -26,5 +32,5 @@ public class Hello {
 	void m6(){
 		System.out.println("this is m6 method.");
 	}
-
+	
 }
