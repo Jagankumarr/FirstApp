@@ -37,8 +37,8 @@ public class Hello {
 		System.out.println("this is print message !!!");
 	}
 	
-	void trail(){
-		System.out.println("trail method.");
+	void greeting(){
+		
 	}
 	
 }
