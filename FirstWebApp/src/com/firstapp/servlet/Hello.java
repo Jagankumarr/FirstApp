@@ -22,5 +22,9 @@ public class Hello {
 	void m4(){
 		System.out.println("this is m4 method");
 	}
+	
+	void m5(){
+		System.out.println("this is m5 method");
+	}
 
 }
