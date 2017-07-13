@@ -37,4 +37,8 @@ public class Hello {
 		System.out.println("this is greeting method");
 	}
 	
+	void print(){
+		System.out.println("this is print method");
+	}
+	
 }
