@@ -41,4 +41,8 @@ public class Hello {
 		System.out.println("this is locaking method to test");
 	}
 	
+	void m8(){
+		System.out.println("this is m8 method.");
+	}
+	
 }
