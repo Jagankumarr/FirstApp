@@ -8,11 +8,7 @@ public class Print {
 	}
 	
 	void m1(){
-		System.out.println("added new logic for m1 method, ignore logic ");
-	}
-	
-	void m2(){
-		System.out.println("added new method m2()");
+		System.out.println("this is m1 method.");
 	}
 	
 }
