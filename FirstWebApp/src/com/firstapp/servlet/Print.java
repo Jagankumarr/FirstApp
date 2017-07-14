@@ -7,4 +7,8 @@ public class Print {
 		System.out.println("printing message method.");
 	}
 	
+	void m1(){
+		System.out.println("this is m1 method.");
+	}
+	
 }
