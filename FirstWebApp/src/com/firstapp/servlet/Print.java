@@ -11,4 +11,8 @@ public class Print {
 		System.out.println("this is m1 method.");
 	}
 	
+	void m3(){
+		System.out.println("new method added.");
+	}
+	
 }
